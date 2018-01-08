@@ -1,0 +1,6 @@
+framework module LYPPodDemo {
+  umbrella header "LYPPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

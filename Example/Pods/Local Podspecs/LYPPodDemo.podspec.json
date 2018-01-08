@@ -1,0 +1,22 @@
+{
+  "name": "LYPPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of LYPPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liaoyp/LYPPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liaoyp": "251180323@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liaoyp/LYPPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYPPodDemo/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LYPPodDemo_Example {
+  umbrella header "Pods-LYPPodDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
